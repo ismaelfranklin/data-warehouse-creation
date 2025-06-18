@@ -8,8 +8,6 @@ mini_dw_vendas/
 ├── data/               # Source CSV files
 ├── etl/               # ETL processing scripts
 ├── sql/              # Database schemas and queries
-└── docs/             # Documentation and diagrams
-```
 
 ## Prerequisites
 - Python 3.8+
@@ -58,7 +56,7 @@ python etl/etl_runner.py
 ```
 
 ## Database Model
-![Data Model](docs/flowchart.png)
+
 
 ## License
 MIT
